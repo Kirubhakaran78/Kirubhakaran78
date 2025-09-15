@@ -3,18 +3,19 @@
 
 🎓 **Education**: Master of Computer Applications (MCA)  
 💼 **Intern** at [Agaram Technologies](https://www.agaramtech.com/)  
-📍 Based in Egmore, Tamil Nadu, India  
-🌱 Currently learning: Full-stack development, API integration, and DevOps basics  
+📍 Based in Chennai, Tamil Nadu, India  
+🌱 Currently learning: Full-stack development and API integration
 💡 Passionate about building impactful software solutions in the education and healthcare domains  
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/) | [Email](mailto:your-email@example.com)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kirubhakaran-rajendran) | [Email](mailto:kirubhakaran.rajendran@agaramtech.com)
 
 ---
 
 ### 🛠️ Tech Stack
 
-- **Languages**: Python, JavaScript, Java  
-- **Web**: HTML, CSS, React, Node.js  
-- **Database**: MySQL, MongoDB  
+- **Languages**: Java, JavaScript, Typescript  
+- **Web Technologies**: HTML, CSS, ReactJS 
+- **Database**: PostgreSQL, MySQL
+- **Frameworks**: Spring Boot
 - **Tools**: Git, VS Code, Postman  
 - **Others**: REST APIs, Agile Methodologies
 
